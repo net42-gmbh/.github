@@ -1,4 +1,4 @@
-![net42 Banner](https://raw.githubusercontent.com/net42-gmbh/.github/profile/net42-banner.png)
+![net42 Banner](https://github.com/net42-gmbh/.github/blob/main/profile/net42-banner.png)
 
 # net42 GmbH
 
