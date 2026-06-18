@@ -4,57 +4,31 @@
 
 Willkommen auf dem GitHub-Profil der **net42 GmbH**.
 
-Wir unterstützen Unternehmen bei der Einführung, Optimierung und dem sicheren Betrieb moderner Open-Source- und Linux-basierter IT-Infrastrukturen. Unser Fokus liegt auf praxisnaher Beratung, nachhaltigem Wissenstransfer und sauberer technischer Umsetzung.
+Die net42 GmbH mit Sitz in Bad Rappenau ist ein spezialisiertes Consulting-Unternehmen für Linux- und Open-Source-Technologien. Wir unterstützen Unternehmen dabei, leistungsfähige, sichere und souveräne IT-Infrastrukturen aufzubauen und nachhaltig zu betreiben.
+
+Als Partner für Open-Source-Technologien stehen wir für Transparenz, technologische Unabhängigkeit und nachhaltige IT-Strategien. Wir glauben daran, dass moderne IT-Infrastrukturen offen, auditierbar und kontrollierbar sein sollten, ohne unnötige Herstellerabhängigkeiten.
+
+Mit unserer Erfahrung begleiten wir unsere Kunden von der ersten Idee über die Architektur bis hin zum stabilen Betrieb. So entstehen Plattformen, die nicht nur technisch überzeugen, sondern auch langfristig wirtschaftlich und strategisch sinnvoll sind.
 
 ## Was wir machen
 
-### Linux & Open-Source Consulting
+Unser Fokus liegt auf der Planung, Umsetzung und dem Betrieb moderner Plattformen – mit besonderer Expertise in Kubernetes-basierten Umgebungen und containerisierten Workloads. Dabei verbinden wir technisches Know-how mit einem klaren Verständnis für betriebliche Anforderungen. Das Ergebnis sind skalierbare, wartungsarme und zukunftssichere Infrastrukturen.
 
-Wir beraten bei der Einführung, Optimierung und dem sicheren Betrieb von Linux-Systemen und Open-Source-Softwarelösungen.
+### Kubernetes & Container-Plattformen
 
-Typische Themen:
+Konzeption, Implementierung und Betrieb hochverfügbarer Kubernetes-Umgebungen für produktive Workloads.
 
-- Linux-Infrastrukturen
-- Open-Source-Architekturen
-- Container- und Cloud-Native-Plattformen
-- Automatisierung und Betrieb
-- Security, Compliance und Betriebsmodelle
+### Souveräne IT-Infrastrukturen
 
-### IT-Training
+Architektur und Umsetzung sicherer Plattformen – wahlweise in der Cloud, On-Premises oder in hybriden Szenarien.
 
-Wir bieten praxisnahe Schulungen und Workshops für Administratoren, Entwickler und IT-Teams.
+### Open-Source-basierte SaaS-Lösungen
 
-Schwerpunkte:
+Entwicklung und Bereitstellung eigener Services auf Open-Source-Basis – transparent, flexibel und unabhängig.
 
-- Linux
-- Kubernetes und Cloud Native
-- Open-Source-Technologien
-- Moderne IT-Infrastrukturen
-- DevOps, GitOps und Automatisierung
+### Trainings & Workshops
 
-### Development
-
-Wir entwickeln maßgeschneiderte Softwarelösungen mit Fokus auf Effizienz, Sicherheit und Open-Source-Standards.
-
-Beispiele:
-
-- Webanwendungen
-- Automatisierungstools
-- Integrationen
-- Infrastruktur-nahe Werkzeuge
-- Interne Plattform- und Betriebswerkzeuge
-
-## Unsere Haltung
-
-Wir glauben an offene Standards, nachvollziehbare Architekturentscheidungen und Lösungen, die Teams wirklich betreiben können.
-
-Unsere Arbeit ist geprägt von:
-
-- Praxisnähe
-- Transparenz
-- Sicherheit
-- Automatisierbarkeit
-- Open-Source-first-Denken
+Praxisnahe Schulungen für Administratoren, Entwickler und IT-Teams, die ihr Know-how nachhaltig ausbauen möchten.
 
 ## Repositories
 
