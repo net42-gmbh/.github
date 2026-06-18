@@ -1,3 +1,5 @@
+![net42 Banner](https://raw.githubusercontent.com/net42-gmbh/.github/profile/net42-banner.png)
+
 # net42 GmbH
 
 **Open Source. Linux. Cloud Native. Training. Development.**
